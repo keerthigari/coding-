@@ -8,3 +8,6 @@ int main(){
 void read(){
     printf("This is read method");
 }
+void diasplay(){
+    peintf("Iam added display method");
+}
